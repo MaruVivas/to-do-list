@@ -4,4 +4,4 @@
 Este pequeño proyecto es una "To do List" o Lista de quehaceres dinámica, donde se pueden agregar y llevar cuenta de las tareas realizadas.
 
 
-🔍 Puedes revisar este proyecto en  🔍
+🔍 Puedes revisar este proyecto en https://maruvivas.github.io/to-do-list/ 🔍
