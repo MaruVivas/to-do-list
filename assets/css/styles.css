@@ -63,6 +63,10 @@ table span {
     margin-left: 0.5rem;
 }
 
+thead td {
+    font-weight: bold;
+}
+
 tbody tr.line {
     text-decoration: line-through;
   }
